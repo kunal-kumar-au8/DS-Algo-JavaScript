@@ -1,0 +1,10 @@
+Recursion
+
+* Two fundamental things for recursion are
+1. Base case (rturn end point)
+2. diffrence
+
+# where things go wrong?
+* No base case
+* Forgetting to return or returning the wrong thing!
+* Stack overflow!(Chrome Stack overflow)
